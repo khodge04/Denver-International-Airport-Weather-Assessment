@@ -1,5 +1,5 @@
 This project analyzes how a single upper-air sounding from a cold morning in February 2021 can be used to assess aviation operational risk at Denver International Airport.
-A program was developed to read upper-air sounding data and evaluate atmospheric conditions that could increase icing, wind shear, and cold-weather operational risk for airport and flight operations.
+This fortran 90 program was developed to read upper air sounding data and evaluate atmospheric conditions that could increase icing, wind shear, and cold-weather operational risk for airport and flight operations.
 ## Case Study
 Location/Date/Time: Denver CO,  02-15-2021, 12 UTC  
 The event featured an extremely cold and statically stable lower atmosphere, with a pronounced low-level inversion and backing winds increasing with height.
